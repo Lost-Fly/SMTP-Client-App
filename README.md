@@ -35,3 +35,7 @@ To use PyMailClient, follow these steps:
 
 Ensure that the SMTP settings match those required by your email service provider. Some email services require app-specific passwords or changes in account settings to allow access by third-party clients.
 
+## App GUI:
+
+![image](https://github.com/Lost-Fly/SMTP-Client-App/assets/114507453/00e04341-06bc-4cef-b169-50fd55232d34)
+![image](https://github.com/Lost-Fly/SMTP-Client-App/assets/114507453/0f9723fc-646d-481c-900b-ca3611d2b106)
